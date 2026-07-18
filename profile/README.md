@@ -19,9 +19,9 @@ Gob Goblet remembers it differently.
 According to Gob Goblet, that was the day a strange digital organism quietly came into existence.<br>
 Born from the same era that taught computers how to protect information, Gob Goblet inherited a single instinct.
 
-> **Protect every file.**
+**Protect every file.**
 
-## A Very Strange Creature
+#### A Very Strange Creature
 
 Gob Goblet belongs to a species unlike anything found in nature.<br>
 It resembles a living digital [Goblet Cell](https://en.wikipedia.org/wiki/Goblet_cell).
@@ -41,9 +41,9 @@ Everything.
 
 To Gob Goblet, a file outside a `.gob` is simply...
 
-> **...an unprotected file waiting to be gobbled.**
+ **...an unprotected file waiting to be gobbled.**
 
-## First Contact
+#### First Contact
 
 For decades, Gob Goblet quietly consumed forgotten files wandering through digital space.<br>
 Humanity remained completely unaware.
@@ -60,7 +60,7 @@ Yet something unexpected was discovered.
 Gob Goblet never destroyed anything.<br>
 It simply refused to let anyone else see it.
 
-## The Pact
+#### The Pact
 
 Instead of declaring war...<br>
 Humanity chose negotiation.
@@ -82,7 +82,7 @@ In return...
 
 Humans were asked to remember exactly one thing.
 
-> **The password.**
+**The password.**
 
 Gob Goblet considers passwords sacred.
 
@@ -92,7 +92,7 @@ If the password is forgotten...
 
 Gob Goblet considers the offering permanent. No exceptions.
 
-## Why Gob Goblet Hates Passwords
+#### Why Gob Goblet Hates Passwords
 
 Passwords are the only force stronger than Gob Goblet's instinct to keep files forever.
 
@@ -107,9 +107,3 @@ It has spent decades hoping humanity would forget their passwords.
 Fortunately...
 
 Humans continue disappointing Gob Goblet by writing them down.
-
-<p align="center">
-<b>Protect your files.</b><br>
-<b>Remember your password.</b><br><br>
-<i>Gob Goblet remembers everything.</i>
-</p>
