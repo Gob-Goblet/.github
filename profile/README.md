@@ -102,3 +102,11 @@ Gob Goblet is not particularly fond of them. It has spent decades hoping humanit
 Fortunately...
 
 Humans continue disappointing Gob Goblet by writing them down.
+
+### A Small Note
+
+The story above is a work of fiction created for the Gob Goblet project. While it draws inspiration from real moments in computing history, the characters, events, and narrative are entirely fictional.
+
+If you're interested in reading more of the Gob Goblet lore, visit the [Gob Goblet Narratives](https://github.com/Gob-Goblet/Gob-Goblet-narratives) repository.
+
+With that out of the way, the remainder of this README focuses on the Gob Goblet organization, its projects, and the technical details behind them.
