@@ -1,1 +1,6 @@
-Welcome to the Home of Gob-Goblet!
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/misc/Notice.svg"
+    alt="Notice"
+    width="100%">
+</p>
