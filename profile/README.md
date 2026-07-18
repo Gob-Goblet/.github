@@ -2,7 +2,7 @@
   <img
     src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_webp.webp"
     alt="Gob Goblet"
-    width="350">
+    width="400">
 </p>
 
 <h1 align="center">The Legend of Gob Goblet</h1>
@@ -85,7 +85,6 @@ Humans were asked to remember exactly one thing.
 **The password.**
 
 Gob Goblet considers passwords sacred.
-
 If the correct password is presented, Gob Goblet immediately returns the original file without complaint.
 
 If the password is forgotten...
@@ -94,15 +93,11 @@ Gob Goblet considers the offering permanent. No exceptions.
 
 #### Why Gob Goblet Hates Passwords
 
-Passwords are the only force stronger than Gob Goblet's instinct to keep files forever.
-
-Every correct password forces Gob Goblet to surrender one of its treasured offerings.
+Passwords are the only force stronger than Gob Goblet's instinct to keep files forever. Every correct password forces Gob Goblet to surrender one of its treasured offerings.
 
 Needless to say...
 
-Gob Goblet is not particularly fond of them.
-
-It has spent decades hoping humanity would forget their passwords.
+Gob Goblet is not particularly fond of them. It has spent decades hoping humanity would forget their passwords.
 
 Fortunately...
 
