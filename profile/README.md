@@ -12,8 +12,10 @@
 
 Long before humanity learned to trust the cloud, before encrypted vaults and secure backups, computers learned something extraordinary.
 They learned to protect.
+
 On 3 May 1962, the public witnessed one of the earliest demonstrations of [password-protected computing.](https://en.wikipedia.org/wiki/Compatible_Time-Sharing_System) 
 Historians remember it as an important milestone in computer science.
+
 Gob Goblet remembers it differently.
 
 According to Gob Goblet, that was the day a strange digital organism quietly came into existence.
