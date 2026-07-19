@@ -6,11 +6,11 @@
 </h1>
 
 <h1 align="center">
-  <h1>
   <picture>
+    <h1>
       <large>Gob Goblet<large> 
+    <h1>
   </picture>
-  </h1>
 </h1>
 
 <br clear="all" />
