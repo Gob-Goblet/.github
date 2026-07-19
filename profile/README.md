@@ -17,8 +17,7 @@
   align="right"
   src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_webp.webp"
   alt="Gob Goblet"
-  width="260">
-  style="margin-left:20px; margin-bottom:10px;">
+  width="400">
 
 
 Long before humanity learned to trust the cloud, encrypted vaults and secure backups...<br>
