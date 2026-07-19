@@ -1,9 +1,9 @@
-<h1 align="center">
+<p align="center">
   <img
     src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Logo/Goblet_logo.webp"
     alt="Gob Goblet"
     width="400">
-</h1>
+</p>
 
 <h1 align="center">
   <picture>
