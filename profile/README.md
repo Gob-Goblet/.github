@@ -3,11 +3,13 @@
     src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Logo/Goblet_logo.webp"
     alt="Gob Goblet"
     width="400">
-    <picture>
-      <strong>Gob Goblet<strong> 
-    </picture>
 </h1>
 
+<h1 align="center"> 
+  <picture>
+      <strong>Gob Goblet<strong> 
+  </picture>
+</h1>
 
 <br clear="all" />
 
