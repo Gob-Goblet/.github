@@ -4,9 +4,12 @@
     alt="Gob Goblet"
     width="400">
     <picture>
-      <h1>Gob Goblet<h1> 
+      <h1>Gob_Goblet<h1> 
     </picture>
 </h1>
+
+
+<br clear="all" />
 
 Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.
 
