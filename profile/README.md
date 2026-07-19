@@ -1,6 +1,14 @@
+<p align="center">
+  <img
+    src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_logo.webp"
+    alt="Gob Goblet"
+    width="400">
+</p>
+
+
 <h1 align="center"> Gob Goblet </h1>
 
-<p align="center">Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.</p>
+<h3 align="center">Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.</h3>
 
 <p align="center">
   <img
