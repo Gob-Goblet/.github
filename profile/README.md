@@ -34,13 +34,12 @@
 
 <div align="center">
   <ul style="display: inline-block; text-align: left; max-width: 600px;">
-    <li>The Blind Server:</b> The backend server exists for one reason only: to securely derive a cryptographic pepper. It receives a hashed representation, applies the pepper, and returns it. The server is completely blind—it never sees your plain-text password, and it never touches your files.</li>
-    <li>Stateless by Design:</b> There are no user accounts, no login portals, and no databases hoarding your metadata. The utility functions flawlessly without tethering your identity to a cloud account.</li>
-    <li>Client-Side Execution:</b> Because all file processing and structural wrapping into the <code>.gob</code> format happens locally, the system remains lightweight, fast, and immune to traditional server-side data breaches.</li>
+    <li><b>The Blind Server:</b> The backend server exists for one reason only: to securely derive a cryptographic pepper. It receives a hashed representation, applies the pepper, and returns it. The server is completely blind—it never sees your plain-text password, and it never touches your files.</li>
+    <li><b>Stateless by Design:</b> There are no user accounts, no login portals, and no databases hoarding your metadata. The utility functions flawlessly without tethering your identity to a cloud account.</li>
+    <li><b>Client-Side Execution:</b> Because all file processing and structural wrapping into the <code>.gob</code> format happens locally, the system remains lightweight, fast, and immune to traditional server-side data breaches.</li>
   </ul>
 </div>
 
-<br>
 <br>
 <br>
 
@@ -140,19 +139,19 @@ Fortunately...
 
 Humans continue disappointing Gob Goblet by writing them down.
 
-The end
+<p align="center">
+   <i>Thus concludes the prologue... but the digital space is vast, and more stories await.</i>
+</p>
+<p align="center">
+  <a href="https://github.com/Gob-Goblet/Gob-Goblet-narratives">
+    <b> Read the Next Chapters in Gob Goblet Narratives →</b>
+  </a>
+</p>
 
-<br clear="all" />
+<br>
 
----
-
-<h3 align="center">A Small Note</h3>
-
-
-The story above is a work of fiction created for the Gob Goblet project. <br>
-While it draws inspiration from real moments in computing history, the characters, events, and narrative are entirely fictional.
-
-If you're interested in reading more of the Gob Goblet lore, visit the [Gob Goblet Narratives](https://github.com/Gob-Goblet/Gob-Goblet-narratives) repository.
-With that out of the way, the remainder of this README focuses on the Gob Goblet organization, its projects, and the technical details behind them.
+> [!NOTE]
+> The story above is a work of fiction created for the Gob Goblet project. <br>
+> While it draws inspiration from real moments in computing history, the characters, events, and narrative are entirely fictional.
 
 
