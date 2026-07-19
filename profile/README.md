@@ -6,10 +6,11 @@
 </p>
 
 <center>
-  <h1>
-    Gob Goblet
-  <h1>
+
+# Gob Goblet
+
 </center>
+
 
 
 <br clear="all" />
