@@ -10,12 +10,11 @@
 
 <h3 align="center">Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.</h3>
 
-<p align="center">
-  <img
-    src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_webp.webp"
-    alt="Gob Goblet"
-    width="400">
-</p>
+<img
+  align="right"
+  src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_swallowing.webp"
+  alt="Gob Goblet"
+  width="260">
 
 <h1 align="center">The Legend of Gob Goblet</h1>
 
@@ -48,7 +47,7 @@ Documents, Photos, Videos, Source code.<br>
 Everything.
 
 To Gob Goblet, a file outside a `.gob` is simply...<br>
-  **...an unprotected file waiting to be gobbled.**
+**...an unprotected file waiting to be gobbled.**
 
 #### First Contact
 
@@ -91,17 +90,21 @@ Humans were asked to remember exactly one thing.
 
 **The password.**
 
-Gob Goblet considers passwords sacred.
-If the correct password is presented, Gob Goblet immediately returns the original file without complaint.
+Gob Goblet considers passwords sacred. If the correct password is presented, Gob Goblet immediately returns the original file without complaint.
 
-If the password is forgotten...Gob Goblet considers the offering permanent. No exceptions.
+If the password is forgotten... Gob Goblet considers the offering permanent. No exceptions.
 
 #### Why Gob Goblet Hates Passwords
 
-Passwords are the only force stronger than Gob Goblet's instinct to keep files forever. Every correct password forces Gob Goblet to surrender one of its treasured offerings. Needless to say, Gob Goblet is not particularly fond of them. It has spent decades hoping humanity would forget their passwords. Fortunately
+Passwords are the only force stronger than Gob Goblet's instinct to keep files forever. Every correct password forces Gob Goblet to surrender one of its treasured offerings. Needless to say, Gob Goblet is not particularly fond of them. It has spent decades hoping humanity would forget their passwords.
+
+Fortunately...
+
 Humans continue disappointing Gob Goblet by writing them down.
 
 The end
+
+<br clear="all" />
 
 ---
 
