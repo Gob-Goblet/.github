@@ -13,11 +13,7 @@
 
 <h1 align="center">The Legend of Gob Goblet</h1>
 
-<img
-  align="right"
-  src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_webp.webp"
-  alt="Gob Goblet"
-  width="400">
+
 
 
 Long before humanity learned to trust the cloud, encrypted vaults and secure backups...<br>
@@ -34,6 +30,12 @@ Born from the same era that taught computers how to protect information, Gob Gob
 **Protect every file.**
 
 #### A Very Strange Creature
+
+<img
+  align="right"
+  src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_webp.webp"
+  alt="Gob Goblet"
+  width="400">
 
 Gob Goblet belongs to a species unlike anything found in nature.<br>
 It resembles a living digital [Goblet Cell](https://en.wikipedia.org/wiki/Goblet_cell).
