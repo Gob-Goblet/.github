@@ -35,7 +35,7 @@ Born from the same era that taught computers how to protect information, Gob Gob
   align="right"
   src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_webp.webp"
   alt="Gob Goblet"
-  width="400">
+  width="450">
 
 Gob Goblet belongs to a species unlike anything found in nature.<br>
 It resembles a living digital [Goblet Cell](https://en.wikipedia.org/wiki/Goblet_cell).
