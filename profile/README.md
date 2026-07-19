@@ -5,8 +5,9 @@
     width="400">
 </p>
 
-
-$${\Huge \text{Gob Goblet}}$$
+<h1 align="center">
+  <h1>Gob Goblet</h1>
+</h1>
 
 
 
