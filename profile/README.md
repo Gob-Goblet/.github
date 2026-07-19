@@ -5,13 +5,13 @@
     width="400">
 </p>
 
-<h1 align="center">
+<p align="center">
   <picture>
     <h1>
       Gob Goblet
     <h1>
   </picture>
-</h1>
+</p>
 
 <br clear="all" />
 
