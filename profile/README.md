@@ -1,9 +1,6 @@
-<h1 align="center">
-## Gob Goblet 
-Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.
-</h1>
+<h1 align="center"> Gob Goblet </h1>
 
-
+<p align="center">Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.</p>
 
 <p align="center">
   <img
