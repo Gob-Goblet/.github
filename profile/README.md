@@ -1,6 +1,6 @@
 <p align="center">
   <img
-    src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_logo.webp"
+    src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Logo/Goblet_logo.webp"
     alt="Gob Goblet"
     width="400">
 </p>
