@@ -6,7 +6,9 @@
 </p>
 
 
-<h1 align="center"> Gob Goblet </h1>
+<h1 align="center"> 
+  <h1>Gob Goblet<h1> 
+</h1>
 
 <h3 align="center">Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.</h3>
 
