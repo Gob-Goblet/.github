@@ -7,7 +7,7 @@
 
 <h1 align="center"> 
   <picture>
-      <strong>Gob Goblet<strong> 
+      <large>Gob Goblet<large> 
   </picture>
 </h1>
 
