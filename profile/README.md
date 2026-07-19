@@ -12,7 +12,7 @@
 
 <img
   align="right"
-  src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_swallowing.webp"
+  src="https://cdn.jsdelivr.net/gh/Gob-Goblet/Gob-Goblet-assets/Mascot/Goblet_webp.webp"
   alt="Gob Goblet"
   width="260">
 
