@@ -5,9 +5,8 @@
     width="400">
 </p>
 
-$$\Huge\text{Gob Goblet}$$
 
-
+$${\Huge \text{Gob Goblet}}$$
 
 
 
