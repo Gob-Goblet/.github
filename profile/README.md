@@ -5,10 +5,12 @@
     width="400">
 </h1>
 
-<h1 align="center"> 
+<h1 align="center">
+  <h1>
   <picture>
       <large>Gob Goblet<large> 
   </picture>
+  </h1>
 </h1>
 
 <br clear="all" />
