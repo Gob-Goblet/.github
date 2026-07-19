@@ -5,11 +5,10 @@
     width="400">
 </p>
 
-<center>
+<div align="center">
+  <h1>Gob Goblet</h1>
+</div>
 
-# Gob Goblet
-
-</center>
 
 
 
