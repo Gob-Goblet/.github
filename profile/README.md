@@ -4,7 +4,7 @@
     alt="Gob Goblet"
     width="400">
     <picture>
-      <h1>Gob Goblet<h1> 
+      <strong>Gob Goblet<strong> 
     </picture>
 </h1>
 
