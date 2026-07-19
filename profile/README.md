@@ -152,6 +152,6 @@ Humans continue disappointing Gob Goblet by writing them down.
 
 > [!NOTE]
 > The story above is a work of fiction created for the Gob Goblet project. <br>
-> While it draws inspiration from real moments in computing history, the characters, events, and narrative are entirely fictional.
+> While it draws inspiration from real moments in computing history, events and narrative are entirely fictional.
 
 
