@@ -16,13 +16,13 @@
 <br clear="all" />
 
 
-Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.
+<h6>Gob Goblet is an open-source, lightweight, web-based utility for securely encrypting and decrypting modern files.</h6>h6
 
 
 
 
 
-<p align="center">Prologue</p>
+<h3 align="center">Prologue</h3>
 <h1 align="center">The Legend of Gob Goblet</h1>
 
 
